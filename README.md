@@ -9,7 +9,7 @@
 
 ## Steps 
 
-    - [setting mail to send the user]
+    - setting mail to send the user
 
     - [then run command of php artisan queue:table ]
 
