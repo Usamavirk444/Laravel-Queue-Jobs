@@ -9,17 +9,17 @@
 
 ## Steps 
 
-    ** 1- setting mail to send the user **
+    - [setting mail to send the user]
 
-    ** 2- then run command of php artisan queue:table **
+    - [then run command of php artisan queue:table ]
 
-    ** 3- after that change env QUEUE_CONNECTION=database **
+    - [after that change env QUEUE_CONNECTION=database ]
 
-    ** 4- then make a job for send mails php artisan make:job <Name> **
+    - [then make a job for send mails php artisan make:job <Name> ]
 
-    ** 4- Mail:to line put in the queue **
+    - [Mail:to line put in the queue ]
 
-    ** 5- in function dispatch the job with job function **
+    - [in function dispatch the job with job function ]
 
 ## About Laravel
 
